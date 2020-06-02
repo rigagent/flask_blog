@@ -1,0 +1,6 @@
+[Unit]
+
+[Service]
+ExecStart=/root/flask_blog/app.py
+
+[Install]
